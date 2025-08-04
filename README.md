@@ -28,11 +28,7 @@ EffortLogger is a desktop-based project management system tailored for software 
 
 This project originated as a team collaboration to build real-world software tailored to the specific workflows of developers. The core goal was to simplify time logging and improve visibility into a project's deliverables.
 
----
 
-### 📸 UI Preview *(Add screenshots here if available)*
-
----
 
 ### 📦 Setup Instructions
 
@@ -40,4 +36,5 @@ This project originated as a team collaboration to build real-world software tai
 2. Open in your favorite IDE (e.g., IntelliJ, Eclipse)  
 3. Run `Main.java` from the `src` folder
 
-> Note: Java 8+ required for JavaFX compatibility
+
+
