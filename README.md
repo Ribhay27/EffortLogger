@@ -1,4 +1,4 @@
-# 🗂️ EffortLogger
+# EffortLogger
 
 **Developer-Centric Project Tracking Application built with Java & JavaFX**
 
@@ -6,7 +6,7 @@ EffortLogger is a desktop-based project management system tailored for software 
 
 ---
 
-### 🚀 Features
+### Features
 
 - 🧭 **Track project metadata**: Project name, lifecycle phase, deliverables
 - 🧩 **Modular codebase**: Built using the **MVC architecture** for better separation of concerns
@@ -15,7 +15,7 @@ EffortLogger is a desktop-based project management system tailored for software 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 - **Language**: Java  
 - **UI Framework**: JavaFX  
@@ -24,17 +24,12 @@ EffortLogger is a desktop-based project management system tailored for software 
 
 ---
 
-### 🧠 Motivation
+### Motivation
 
 This project originated as a team collaboration to build real-world software tailored to the specific workflows of developers. The core goal was to simplify time logging and improve visibility into a project's deliverables.
 
 
 
-### 📦 Setup Instructions
-
-1. Clone the repository  
-2. Open in your favorite IDE (e.g., IntelliJ, Eclipse)  
-3. Run `Main.java` from the `src` folder
 
 
 
